@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#E0E0E0" /> <!-- Background color of the search bar -->
+    <corners android:radius="24dp" /> <!-- Adjust the radius to control the roundness of the corners -->
+</shape>
